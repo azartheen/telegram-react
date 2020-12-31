@@ -1,5 +1,9 @@
 # Telegram Web App
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+
+
 ### Interface
 ![Sample screenshot](/src/Assets/Screenshots/1x_Group.png)
 
